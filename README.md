@@ -1,0 +1,2 @@
+# SesionesR
+ejercicio de principiantes
